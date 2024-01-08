@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Laura Pauline Gschwandtner
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Laura Pauline Gschwandtner
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Laura Pauline
+last_name: Gschwandtner
 
 # Status emoji
 status:
@@ -17,34 +17,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cognitive Scientist & Science Communicator
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Vienna
+    url: https://www.univie.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests revolve around the brain and how we can utilize novel methodologies to understand it better.
 
 # Interests to show in About widget
 interests:
+  - Cognitive Science
+  - Clinical Psychology
+  - Computational Psychiatry
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Clinical Psychology
+      institution: University of Vienna
+      year: 
+    - course: MSc in Cognitive Science
+      institution: Comenius University Bratislava
+      year: 2020
+    - course: BA in Linguistics
+      institution: University of Vienna
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,15 +72,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Traveling
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: backpack
         icon_pack: fas
-      - name: Cats
+      - name: Yoga
         description: ''
         percent: 100
-        icon: cat
+        icon: yoga
         icon_pack: fas
       - name: Photography
         description: ''
@@ -96,7 +98,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/Lauragschw
     label: Follow me on Twitter
     display:
       header: true
@@ -120,5 +122,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Laura Gschwandtner is a PhD student at the University of Vienna. Her research interests revolve around the brain and how we can utilize novel methodologies to understand it better. She has experience in employing deep learning methods to questions from neurology and psychiatry.
 {style="text-align: justify;"}
