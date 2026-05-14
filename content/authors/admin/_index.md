@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Laura Pauline Gschwandtner
+title: Laura Pauline Bäuerl
 
 # Name pronunciation (optional)
-name_pronunciation: Laura Pauline Gschwandtner
+# name_pronunciation: Laura Pauline Gschwandtner
 
 # Full name (for SEO)
 first_name: Laura Pauline
-last_name: Gschwandtner
+last_name: Bäuerl
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Cognitive Scientist & Science Communicator
+role: Cognitive Neuroscience & Literature
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,15 +25,14 @@ organizations:
     url: https://www.univie.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests revolve around the brain and how we can utilize novel methodologies to understand it better.
+bio: My research and my writing both try to understand how it feels to be human.
 
 # Interests to show in About widget
 interests:
   - Cognitive Science
-  - Clinical Psychology
   - Computational Psychiatry
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Linguistics
+  - Literature
 
 # Education to show in About widget
 education:
@@ -60,12 +59,12 @@ skills:
         icon_pack: fab
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: R
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
@@ -76,11 +75,6 @@ skills:
         description: ''
         percent: 60
         icon: backpack
-        icon_pack: fas
-      - name: Yoga
-        description: ''
-        percent: 100
-        icon: yoga
         icon_pack: fas
       - name: Photography
         description: ''
@@ -95,22 +89,24 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: laura.baeuerl[at]univie.ac.at
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Lauragschw
     label: Follow me on Twitter
     display:
       header: true
+  - icon: instagram
+    link: https://www.instagram.com/laurapaulineg/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/laurapaulineg
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/lauragschw
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
